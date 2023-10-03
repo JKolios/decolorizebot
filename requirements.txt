@@ -1,3 +1,3 @@
 imgurpython==1.1.7
-Pillow==8.3.2
+Pillow==10.0.1
 -e git+https://github.com/JKolios/prawbot.git@master#egg=prawbot
